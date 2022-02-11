@@ -13,6 +13,6 @@ def isFibonacci(n):
 
 #check if true
 if (isFibonacci(userInput)== True):
-    print(f'{userInput} is a fibonacci number')
+    print(f'{userInput} belongs to the fibonacci sequence')
 else:
-    print(f'{userInput} is not a fibonacci number')
+    print(f'{userInput}  does not belong to the fibonacci sequence')
